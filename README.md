@@ -1,6 +1,18 @@
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingxiaos)
+# 你好，我是 [dingxiaos] 👨‍💻
+一名热爱编程的软件工程师，专注于解决复杂的技术问题。喜欢挑战自己，并在技术的世界中不断进步。
 
-  
+Hello, I am [dingxiaos] 👨‍💻  
+A passionate software engineer who loves programming and focuses on solving complex technical problems. I enjoy challenging myself and continuously improving in the world of technology.
+## 联系我 📧 / Contact Me 📧
+
+- Email: [13083779397@163.com]
+- Phone: [13083779397]
+
+## CSDN博客 / CSDN Blog
+<!-- CSDN- 数据-->
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn/?id=qq_61905492&theme=radical#&lang=zh-CN" width="800" height="auto">
+</div>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
