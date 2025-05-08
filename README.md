@@ -14,37 +14,37 @@ A passionate software engineer who loves programming and focuses on solving comp
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
-🌆 Daytime                7 commits           ███████████░░░░░░░░░░░░░░   43.75 % 
-🌃 Evening                3 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+🌞 Morning                9 commits           ████████████░░░░░░░░░░░░░   47.37 % 
+🌆 Daytime                7 commits           █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌃 Evening                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  4 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Wednesday                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  4 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Wednesday                5 commits           ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 10 commits          ████████████████░░░░░░░░░   62.50 % 
+Saturday                 10 commits          █████████████░░░░░░░░░░░░   52.63 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -80,5 +80,5 @@ Java                     3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/dingxiaos/dingxiaos/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2025 01:34:34 UTC
+ Last Updated on 08/05/2025 01:09:11 UTC
 <!--END_SECTION:waka-->
