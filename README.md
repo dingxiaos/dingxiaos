@@ -22,6 +22,8 @@ A passionate software engineer who loves programming and focuses on solving comp
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 13 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -80,5 +82,5 @@ Java                     3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/dingxiaos/dingxiaos/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 01:08:40 UTC
+ Last Updated on 28/05/2025 01:10:14 UTC
 <!--END_SECTION:waka-->
